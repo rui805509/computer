@@ -1,0 +1,14 @@
+<%@ page contentType="text/html; charset=utf-8"%>
+<div align="center">
+<h2>恒信电脑大卖场</h2>
+<table id="customers" cellSpacing="1" cellPadding="1" width="760" align="center" border="0">
+	<tr valign="bottom">
+		<th><a href="QueryOrderForm.jsp"><font size=2>查看订单</font></a></th>
+		<td><a href="LookPurchase.jsp"><font size=2>查看购物车</font></a></td>
+		<th><a href="LookComputer.jsp"><font size=2>浏览商品</font></a></td>
+		<td><a href="FindComputer.jsp"><font size=2>商品查询</font></a></td>
+		<th><a href="PersonalCenter.jsp"><font size=2>个人中心</font></a></td>
+		<td><a href="LookComputer.jsp"><font size=2>返回首页</font></a></td>
+	</tr>
+</table>
+</div>
